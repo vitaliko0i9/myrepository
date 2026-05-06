@@ -1,0 +1,17 @@
+Point 1: x=50; y=50;
+Point 2: x=100; y=50;
+Point 3: x=100; y=100;
+Point 4: x=50; y=100;
+Point 5: x=150; y=50;
+Point 6: x=200; y=50;
+Point 7: x=200; y=100;
+Point 8: x=150; y=100;
+Point 9: x=250; y=60;
+Point 10: x=290; y=80;
+Point 11: x=250; y=100;
+Point 12: x=210; y=80;
+Point 13: x=320; y=70;
+Point 14: x=360; y=90;
+Point 15: x=320; y=110;
+Point 16: x=280; y=90;
+
